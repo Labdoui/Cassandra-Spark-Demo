@@ -1,16 +1,4 @@
 language: scala
-python:
+scala:
   - "2.10.4"
-spark-core:
-  - 1.2.1
-spark-sql:
-  - 1.2.1
-spark-streaming:
-  - 1.2.1
-park-streaming-twitter:
-  - 1.2.1
-spark-cassandra-connector:
-  - 1.2.1
-nscala-time:
-  - 1.6.0
-# no test
+# no dependency to install
